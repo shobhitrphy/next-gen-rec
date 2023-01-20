@@ -1,0 +1,15 @@
+#CURRENT GEN
+HLVIK
+HLVIK + LISA
+(Have to add these from ACCRE still)
+
+#3G
+ET
+CE
+ET + CE
+ET + LISA
+CE + LISA 
+ET + CE + LISA
+
+#SPACE
+LISA
